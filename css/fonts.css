@@ -3039,7 +3039,7 @@
 }
 
 @font-face {
-    font-family: ElegantIcons;
+    font-family: "Montserrat", sans-serif;
     src: url(../fonts/ElegantIcons.eot);
     src: url(../fonts/ElegantIcons.eot?#iefix) format('embedded-opentype'), url(../fonts/ElegantIcons.woff) format('woff'), url(../fonts/ElegantIcons.ttf) format('truetype'), url(../fonts/ElegantIcons.svg#ElegantIcons) format('svg');
     font-weight: 400;
@@ -3047,7 +3047,7 @@
 }
 
 [data-icon]:before {
-    font-family: ElegantIcons;
+    font-family: "Montserrat", sans-serif;
     content: attr(data-icon);
     speak: none;
     font-weight: 400;
@@ -3418,7 +3418,7 @@
 .social_youtube,
 .social_youtube_circle,
 .social_youtube_square {
-    font-family: ElegantIcons;
+    font-family: "Montserrat", sans-serif;
     speak: none;
     font-style: normal;
     font-weight: 400;
